@@ -13,7 +13,7 @@ logging.basicConfig(
     handlers=[logging.StreamHandler()]
 )
 
-CONFIG_PATH = "./c.ini"
+CONFIG_PATH = "./config.ini"
 MAX_RETRIES = 3
 REQUEST_TIMEOUT = 10
 
